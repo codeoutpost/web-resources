@@ -6,6 +6,8 @@
   * [codeschool](www.codeschool.com)
   
   * [hackerrank](www.hackerrank.com)
+  
+  * [coursera](www.coursera.com)
 # For data collection
   * [dropbox](www.dropbox.com)
 # Keyboard layout
