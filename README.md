@@ -1,4 +1,4 @@
-# python
+# Python
   python project structure >> [http://python-guide-pt-br.readthedocs.io/en/latest/writing/structure)/]
 # For learning
   * [codeacademy](www.codeacademy.com)
