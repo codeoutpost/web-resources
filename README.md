@@ -7,5 +7,6 @@
   
   * [hackerrank](www.hackerrank.com)
 # For data collection
-  www.dropbox.com
-  
+  * [dropbox](www.dropbox.com)
+# Keyboard layout
+  *[dvorak](https://learn.dvorak.nl/)
