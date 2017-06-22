@@ -9,4 +9,6 @@
 # For data collection
   * [dropbox](www.dropbox.com)
 # Keyboard layout
-  *[dvorak](https://learn.dvorak.nl/)
+  * [dvorak](https://learn.dvorak.nl/)
+# Blog
+  * [wordpress](https://wordpress.com/)
